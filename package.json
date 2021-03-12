@@ -1,0 +1,31 @@
+{
+  "name": "electron-publisher-nucleus",
+  "version": "1.0.0",
+  "description": "",
+  "contributors": [
+    "Rei Weeks",
+    "Dennis Bartlett",
+    "Varus Weeks"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlitchyLabs/electron-publisher-nucleus.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GlitchyLabs/electron-publisher-nucleus/issues"
+  },
+  "homepage": "https://github.com/GlitchyLabs/electron-publisher-nucleus#readme",
+  "dependencies": {
+    "builder-util": "^22.10.5",
+    "builder-util-runtime": "^8.7.3",
+    "electron-publish": "^22.10.5",
+    "fs-extra-p": "^8.1.0",
+    "mime": "^2.5.2"
+  }
+}
