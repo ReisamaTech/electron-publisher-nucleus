@@ -27,5 +27,10 @@
     "electron-publish": "^22.10.5",
     "fs-extra-p": "^8.1.0",
     "mime": "^2.5.2"
+  },
+  "devDependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.1",
+    "node-fetch-progress": "^1.0.2"
   }
 }
